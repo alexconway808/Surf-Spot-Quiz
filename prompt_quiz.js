@@ -11,7 +11,7 @@ if (answer == "Haleiwa") {
 
 
 var answer = prompt ("What is the second North Shore surf spot?");
-if (anwer == "Laniakea") {
+if (answer == "Laniakea") {
 	total_score += 1;
 } else {
 	total_score == 0;
